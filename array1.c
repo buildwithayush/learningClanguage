@@ -22,10 +22,10 @@ int main()
     
     // Character Array
 
-    char arr2[4] = {'a' , 'b' , 'c' ,'d'};
-    printf("%c \n" , arr2[0]);
-    printf("%c \n" , arr2[1]);
-    printf("%c \n" , arr2[2]);
+    // char arr2[4] = {'a' , 'b' , 'c' ,'d'};
+    // printf("%c \n" , arr2[0]);
+    // printf("%c \n" , arr2[1]);
+    // printf("%c \n" , arr2[2]);
 
    
     return 0;
