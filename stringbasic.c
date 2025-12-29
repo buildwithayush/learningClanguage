@@ -1,11 +1,14 @@
 #include<stdio.h>
 
 int main() {
-    char arr[10] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'};
-    for (int i = 0; i < 10; i++)
-    {
-        printf("%c " , arr[i]);
-    }
-    
+    char name[] = "Hello world";
+   // int i = 0;
+    // while(name[i]!= '\0') {
+    //     printf("%c", name[i]);
+    //     i++;
+   // }
+
+   // format specifier for string
+    printf("%s", name);
     return 0;
 }
